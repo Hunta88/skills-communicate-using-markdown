@@ -13,3 +13,9 @@ for i in list
 sum = i + sum;
 };
 ```
+
+# Lists
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
